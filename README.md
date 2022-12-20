@@ -10,9 +10,9 @@ Install with `pip install -e .`.
 
 To get started with examples, see the following notebooks:
 
- * [image2pointcloud.ipynb](point_e/examples/image2pointcloud.ipynb) - sample a point cloud, conditioned on some example synthetic view images.
- * [text2pointcloud.ipynb](point_e/examples/text2pointcloud.ipynb) - use our small, worse quality pure text-to-3D model to produce 3D point clouds directly from text descriptions. This model's capabilities are limited, but it does understand some simple categories and colors.
- * [pointcloud2mesh.ipynb](point_e/examples/pointcloud2mesh.ipynb) - try our SDF regression model for producing meshes from point clouds.
+ * [image2pointcloud.ipynb](https://colab.research.google.com/github/taskswithcode/point-e/blob/main/point_e/examples/image2pointcloud.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/point-e/blob/main/point_e/examples/image2pointcloud.ipynb) - sample a point cloud, conditioned on some example synthetic view images.
+ * [text2pointcloud.ipynb](https://colab.research.google.com/github/taskswithcode/point-e/blob/main/point_e/examples/text2pointcloud.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/point-e/blob/main/point_e/examples/text2pointcloud.ipynb) - use our small, worse quality pure text-to-3D model to produce 3D point clouds directly from text descriptions. This model's capabilities are limited, but it does understand some simple categories and colors.
+ * [pointcloud2mesh.ipynb](https://colab.research.google.com/github/taskswithcode/point-e/blob/main/point_e/examples/pointcloud2mesh.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/point-e/blob/main/point_e/examples/pointcloud2mesh.ipynb)  - try our SDF regression model for producing meshes from point clouds.
 
 For our P-FID and P-IS evaluation scripts, see:
 
